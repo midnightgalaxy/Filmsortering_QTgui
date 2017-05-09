@@ -9,7 +9,7 @@ MainWindow::MainWindow(QWidget *parent) :
     this->setFixedSize(480, 240);
     ui->label->setText("Welcome. Enter location to input file");
     film = 0;
-    this->setWindowTitle("Filmsort [v1.0]");
+    this->setWindowTitle("Filmsort");
 
 }
 
